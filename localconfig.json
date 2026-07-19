@@ -2,7 +2,7 @@
   "server_name": "SK SM",
   "server_status": "ONLINE",
   "app_version": "1.0.0",
-  "reset_guest_account": true,
+  "reset_guest_account": false,
   "lobby_customization": {
     "enable_video": true,
     "media_url": "यहाँ_अपने_यूट्यूब_या_इंस्टाग्राम_वीडियो_का_लिंक_डालें",
