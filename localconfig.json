@@ -4,15 +4,15 @@
   "app_version": "1.0.0",
   "reset_guest_account": false,
   "lobby_customization": {
-    "enable_video": true,
-    "media_url": "https://s31.aconvert.com/convert/p3r68-cdx67/m4sop-ix0b0.mp4",
-    "lobby_background_photo": ""
+    "enable_video": false,
+    "media_url": "",
+    "lobby_background_photo": "https://s10.aconvert.com/convert/p3r68-cdx67/aaou2-ge52d.png"
   },
   "pop_up_banners": [
     {
       "banner_id": 1,
       "banner_name": "Evo Gun Promotion",
-      "image_url": "",
+      "image_url": "https://s10.aconvert.com/convert/p3r68-cdx67/aaou2-ge52d.png",
       "redirect_url": "https://www.instagram.com/anime_lover_sm_1?igsh=YzZ1d2hmbXMxNXZp"
     },
     {
