@@ -5,22 +5,21 @@
   "reset_guest_account": false,
   "lobby_customization": {
     "enable_video": true,
-    "media_url": "यहाँ_अपने_यूट्यूब_या_इंस्टाग्राम_वीडियो_का_लिंक_डालें",
-    "lobby_background_photo": "यहाँ_अपनी_फोटो_का_लिंक_डालें"
+    "media_url": "https://youtu.be/_v7A3XuzM8Y?si=6YUNURPdj212u8wB",
+    "lobby_background_photo": ""
   },
   "pop_up_banners": [
     {
       "banner_id": 1,
       "banner_name": "Evo Gun Promotion",
-      "image_url": "पहले_बैनर_का_इमेज_लिंक",
-      "redirect_url": ""
+      "image_url": "",
+      "redirect_url": "https://www.instagram.com/anime_lover_sm_1?igsh=YzZ1d2hmbXMxNXZp"
     },
     {
       "banner_id": 2,
       "banner_name": "YouTube Channel Promo",
-      "image_url": "दूसरे_बैनर_का_इमेज_लिंक",
-      "redirect_url": "यहाँ_अपने_यूट्यूब_का_लिंक_डालें"
+      "image_url": "",
+      "redirect_url": "https://www.youtube.com/@SMA20262-k"
     }
   ]
 }
-
