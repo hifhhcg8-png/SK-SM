@@ -1,0 +1,26 @@
+{
+  "server_name": "FREE_FIRE_INDIA_V2_BY_YOURNAME",
+  "server_status": "ONLINE",
+  "app_version": "1.0.0",
+  "reset_guest_account": true,
+  "lobby_customization": {
+    "enable_video": true,
+    "media_url": "यहाँ_अपने_यूट्यूब_या_इंस्टाग्राम_वीडियो_का_लिंक_डालें",
+    "lobby_background_photo": "यहाँ_अपनी_फोटो_का_लिंक_डालें"
+  },
+  "pop_up_banners": [
+    {
+      "banner_id": 1,
+      "banner_name": "Evo Gun Promotion",
+      "image_url": "पहले_बैनर_का_इमेज_लिंक",
+      "redirect_url": ""
+    },
+    {
+      "banner_id": 2,
+      "banner_name": "YouTube Channel Promo",
+      "image_url": "दूसरे_बैनर_का_इमेज_लिंक",
+      "redirect_url": "यहाँ_अपने_यूट्यूब_का_लिंक_डालें"
+    }
+  ]
+}
+
